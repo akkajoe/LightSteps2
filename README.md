@@ -45,7 +45,7 @@ Files
 
 ---
 
-## How it works (simple)
+## How it works 
 
 1. Capture the empty floor depth as the background.
 2. Every frame, compare current depth to the floor depth.
