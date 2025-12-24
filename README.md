@@ -1,5 +1,15 @@
 # README
 
+## LighSteps
+
+LightSteps is an interactive installation that captures the journey of exploration through dynamic foot-trails that follow each visitor in real time. As people move through the space, the system generates evolving trails, fractals, shifting shapes, and unexpected colors that reflect both the direction they choose and the unpredictable moments that shape them. The trails are not fixed, with randomness in size, pattern, and rhythm mirroring the uncertainty and surprise that accompany life. Even a small step can spark an entirely new form, reminding viewers that exploration is never linear.
+
+The work is loosely inspired by the Viraat Roop in the Mahabharata (Hindu Mythology), a moment when Krishna reveals a vast, interconnected reality to help Arjuna see beyond his confusion. Instead of depicting that cosmic form literally, the installation brings the idea into the form, your path becomes your cosmic expression. The fractal trails that grow behind you visualize how identity unfolds through motion, chance, and attention. Each octagonal footprint also echoes the Hindu and Buddhist view of the eight-folded form of cosmic completeness and the journey of awakening.
+
+Designed for exhibitions, classrooms, and community spaces, this piece speaks to students and young professionals who often feel the pressure to “figure things out” as quickly as possible. In a world that frames uncertainty as failure, LightSteps offers a different perspective, here wandering is allowed. Here, each participant becomes a co-creator. They drift, test new directions, see how their paths evolve, and their trails interwine, overlap and diverge, forming a shared landscape of curiousity and experimentation. 
+
+LighSteps suggests that sometimes exploration matters more than reaching a predetermined destination. The path we trace with all its irregularities and surprises holds its own meaning and beauty.
+
 ## What this is
 
 This Processing sketch uses a Kinect v2 (depth camera) mounted overhead to detect people on the floor and track them. It opens a second fullscreen window on the projector and draws animated fractal footprints where it thinks people are stepping.
