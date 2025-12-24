@@ -1,6 +1,6 @@
 # README
 
-## LighSteps
+## LightSteps
 
 LightSteps is an interactive installation that captures the journey of exploration through dynamic foot-trails that follow each visitor in real time. As people move through the space, the system generates evolving trails, fractals, shifting shapes, and unexpected colors that reflect both the direction they choose and the unpredictable moments that shape them. The trails are not fixed, with randomness in size, pattern, and rhythm mirroring the uncertainty and surprise that accompany life. Even a small step can spark an entirely new form, reminding viewers that exploration is never linear.
 
