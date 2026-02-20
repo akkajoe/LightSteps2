@@ -1,6 +1,4 @@
-Here is a clean version you can **copy paste directly into README.md**
 
-```
 # LightSteps
 
 LightSteps is an interactive installation that uses an overhead Kinect v2 depth camera to detect and track people moving across a floor in real time. The system maps tracked positions into projector space and generates animated fractal footprints at each step.
@@ -83,4 +81,3 @@ data/homography.txt
 The LEFT pane shows the Kinect depth image and debug overlays  
 The RIGHT pane mirrors projector space  
 The projector window is a separate fullscreen PApplet used for projection
-```
